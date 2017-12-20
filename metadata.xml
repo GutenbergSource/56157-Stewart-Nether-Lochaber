@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Nether Lochaber: The Natural History, Legends, and Folk-lore of the West Highlands</dc:title>
+      <dc:creator>Alexander Stewart</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2017-12-10</dc:publisher>
+      <dc:date>2017-12-10</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+Scans for this book are available from the Internet Archive (copy 1), as wel as from the Biodiversity Libary (copy 1). An alternative text version is available from Electric Scotland.
+</dc:rights>
+      <dc:subject>Folklore</dc:subject>
+      <dc:subject>Highlands</dc:subject>
+      <dc:subject>Natural history</dc:subject>
+      <dc:subject>Scotland </dc:subject>
+      <dc:identifier>pg:56157</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
